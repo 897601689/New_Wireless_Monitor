@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "1,4",
+                        "startOffsets": "102,58",
+                        "endColumns": "49,45",
+                        "endOffsets": "150,99"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "290,343",
+                        "endColumns": "52,45",
+                        "endOffsets": "338,384"
+                    }
+                },
+                {
+                    "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "8,18,29,37,22",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "231,556,1071,1408,719",
+                        "endLines": "15,20,35,37,27",
+                        "endColumns": "12,12,12,36,12",
+                        "endOffsets": "518,711,1400,1440,1063"
+                    },
+                    "to": {
+                        "startLines": "6,14,17,24,25",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "389,681,841,1169,1205",
+                        "endLines": "13,16,23,24,30",
+                        "endColumns": "12,12,12,35,12",
+                        "endOffsets": "676,836,1164,1200,1544"
+                    }
+                },
+                {
+                    "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "49",
+                        "endOffsets": "64"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

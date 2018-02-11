@@ -1,0 +1,332 @@
+[
+    {
+        "outputFile": "F:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 49,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 52,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 102,
+                        "endColumn": 49,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 343,
+                    "endColumn": 45,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 45,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 676
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 681,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1164
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1071,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1169,
+                    "endColumn": 35,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1408,
+                        "endColumn": 36,
+                        "endOffset": 1440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1063
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 49,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 52,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 102,
+                        "endColumn": 49,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 343,
+                    "endColumn": 45,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 45,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 676
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 681,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1164
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1071,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1169,
+                    "endColumn": 35,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1408,
+                        "endColumn": 36,
+                        "endOffset": 1440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1063
+                    }
+                }
+            }
+        ]
+    }
+]

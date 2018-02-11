@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "8,18,30,22",
+                        "startColumns": "5,4,4,4",
+                        "startOffsets": "223,548,1166,711",
+                        "endLines": "15,20,32,28",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "510,703,1327,1158"
+                    },
+                    "to": {
+                        "startLines": "2,10,13,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,347,507,671",
+                        "endLines": "9,12,15,22",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "342,502,666,1112"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\New_Wireless_Monitor\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c83937eb8797cda8756f4b79888406f014fee3e">
+        <dex dex="E:\Android\New_Wireless_Monitor\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_aeab867b8c421d5f3db10a211fbf427d6f651c84.jar" />
+    </item>
+    <item
+        jar="E:\Android\New_Wireless_Monitor\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="edc648fd5753817e62261a75396a47b98226f82b">
+        <dex dex="E:\Android\New_Wireless_Monitor\app\build\intermediates\pre-dexed\debug\instant-run_eca29c4c9ade2f7aef0ce0ccc14139eb0b36e200.jar" />
+    </item>
+    <item
+        jar="E:\Android\New_Wireless_Monitor\app\libs\ormlite-android-4.41.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5ad2ad62e4d84198c08b012afdfaf75623fed8e">
+        <dex dex="E:\Android\New_Wireless_Monitor\app\build\intermediates\pre-dexed\debug\ormlite-android-4.41_07f2249188da3d3ee1646f0c20106edd2375027d.jar" />
+    </item>
+    <item
+        jar="E:\Android\New_Wireless_Monitor\app\libs\ormlite-core-4.41.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a9ed622b35c87d8fec1a6daa61eeeec628df5131">
+        <dex dex="E:\Android\New_Wireless_Monitor\app\build\intermediates\pre-dexed\debug\ormlite-core-4.41_6e8e06fc248fcb8f2e839626a58efb91447eb8a6.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,110 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7,17",
+                        "startColumns": "5,4",
+                        "startOffsets": "226,561",
+                        "endLines": "14,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "520,718"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,347",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "342,502"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "8,18,30,22",
+                        "startColumns": "5,4,4,4",
+                        "startOffsets": "223,548,1166,711",
+                        "endLines": "15,20,32,28",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "510,703,1327,1158"
+                    },
+                    "to": {
+                        "startLines": "2,10,13,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,347,507,671",
+                        "endLines": "9,12,15,22",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "342,502,666,1112"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "1,4",
+                        "startOffsets": "102,58",
+                        "endColumns": "49,45",
+                        "endOffsets": "150,99"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "290,343",
+                        "endColumns": "52,45",
+                        "endOffsets": "338,384"
+                    }
+                },
+                {
+                    "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "8,18,29,37,22",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "231,556,1071,1408,719",
+                        "endLines": "15,20,35,37,27",
+                        "endColumns": "12,12,12,36,12",
+                        "endOffsets": "518,711,1400,1440,1063"
+                    },
+                    "to": {
+                        "startLines": "6,14,17,24,25",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "389,681,841,1169,1205",
+                        "endLines": "13,16,23,24,30",
+                        "endColumns": "12,12,12,35,12",
+                        "endOffsets": "676,836,1164,1200,1544"
+                    }
+                },
+                {
+                    "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "49",
+                        "endOffsets": "64"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

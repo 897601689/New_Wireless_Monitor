@@ -1,0 +1,180 @@
+[
+    {
+        "outputFile": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 5,
+                        "startOffset": 223,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1112
+                },
+                "from": {
+                    "file": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1158
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 5,
+                        "startOffset": 223,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1112
+                },
+                "from": {
+                    "file": "F:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1158
+                    }
+                }
+            }
+        ]
+    }
+]

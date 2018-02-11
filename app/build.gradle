@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '26.0.2'
+    android {compileOptions.encoding = "GB2312"}
+
+    defaultConfig {
+        applicationId "com.rilintech.new_wireless_monitor"
+        minSdkVersion 14
+        targetSdkVersion 26
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/ormlite-android-4.41.jar')
+    compile files('libs/ormlite-core-4.41.jar')
+}

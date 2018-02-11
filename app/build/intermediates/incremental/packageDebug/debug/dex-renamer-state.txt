@@ -1,0 +1,4 @@
+#Sun Feb 11 14:50:39 CST 2018
+base.0=E\:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=E\:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

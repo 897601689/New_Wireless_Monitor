@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_bp_param_cali.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\bp_param_cali.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_bp_mode_setting.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\bp_mode_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_bp_auto_setting.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\bp_auto_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_monitorscreen.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\activity_monitorscreen.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_hr_mag_setting.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\hr_mag_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_temp_cali.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\temp_cali.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\raw_disconnect1.png.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\raw\\disconnect1.png"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_hr_ch_setting.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\hr_ch_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_bp_prefill_setting.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\bp_prefill_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_stat_bp_cali.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\stat_bp_cali.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_spo2_alert_param.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\spo2_alert_param.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_volum_setting.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\volum_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_hr_filter_setting.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\hr_filter_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_ip_setting_win.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\ip_setting_win.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_hr_alert_param.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\hr_alert_param.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_resp_mag_setting.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\resp_mag_setting.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_resp_alert_param.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\resp_alert_param.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_temp_alert_param.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\temp_alert_param.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\raw_disconnect.png.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\raw\\disconnect.png"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_bp_alert_param.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\bp_alert_param.xml"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\raw_alarm.ogg.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\raw\\alarm.ogg"
+    },
+    {
+        "merged": "E:\\Android\\New_Wireless_Monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_detect.xml.flat",
+        "source": "E:\\Android\\New_Wireless_Monitor\\app\\src\\main\\res\\layout\\leak_detect.xml"
+    }
+]
